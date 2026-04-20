@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+id btnStart
+id heartRate
+id lastUpdate
+id sleep
+id status
+id steps
+id title
+layout activity_main
+string app_name
+style Theme.MiBandBridge
